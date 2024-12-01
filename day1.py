@@ -1,4 +1,4 @@
-"""Part 1: The goal is to read in two lists of numbers and
+"""Part 1: The goal is to read a file and extract two lists of numbers and
 then sort them from loweest to highest, then
 compare the numbers on each position. The difference between
 the numbers will be added to a new list (Distance). The sum of the new list
